@@ -12,3 +12,6 @@ visual-studio-code
 notion
 brave-browser
 audacity
+bitwarden
+balenaetcher
+todoist
