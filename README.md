@@ -1,7 +1,7 @@
 # Mac Setup
 My personal mac setup
 
-![My mac setup]([https://github.com/Sooryasanand/mac-setup/blob/bc3cbd29199203c9b84d6c4fba6f7ff44f0391d7/Screenshots/Screenshot%202023-08-30%20at%208.06.54%20pm.png])
+![My mac setup](https://github.com/Sooryasanand/mac-setup/blob/bc3cbd29199203c9b84d6c4fba6f7ff44f0391d7/Screenshots/Screenshot%202023-08-30%20at%208.06.54%20pm.png)
 
 This repo contains info on all the apps / tools / settings I use on my Mac.
 
