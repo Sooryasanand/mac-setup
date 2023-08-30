@@ -1,0 +1,11 @@
+iterm2
+alfred
+rectangle
+alt-tab
+android-file-transfer
+discord
+vlc
+keka
+gimp
+inkscape
+visual-studio-code
