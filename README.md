@@ -158,6 +158,9 @@ Todoist is a to-do list and task manager
 ```
 brew install todoist
 ```
+### Whatsapp
+App Client for whatsapp to access whatsapp chat on desktop
+[Install](https://www.whatsapp.com/download) Whatsapp here
 
 ## Creative Tools
 
@@ -216,6 +219,17 @@ brew install inkscape
   
   #### Trackpad
   * Enable tap to click
+
+## Brave Setup
+* Bitwarden
+* Sync Brave
+
+## Vscode Setup
+### Vscode Extensions
+* Atom One Dark - Vscode Theme
+* vscode icons - Icon pack for vscode
+* Error Lens - Vscode highlights errors and warnings inline
+
 
 
 
