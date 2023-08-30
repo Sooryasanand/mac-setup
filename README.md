@@ -200,11 +200,14 @@ Background image can be cloned from this repo. It's stored inside the "Backgroun
    * Uncheck Hard Disk.
    * Change New Finder windows show -> Downloads.
    * Check Open folders in tabs instead of new windows.
- * Finder -> Sidebar
-   * Check everything except home folder, 'Icloud folder', 'Shared' and 'Cloud Storage'.
- * Finder -> Advanced
-   * Tick Everything except for section under 'Keep folders on top:".
-   * Select 'Search this mac'.
+     * Preferences -> Sidebar
+       * Check everything except home folder, 'Icloud folder', 'Shared' and 'Cloud Storage'.
+     * Preferences -> Advanced
+       * Tick Everything except for section under 'Keep folders on top:".
+       * Select 'Search this mac'.
+* Finder -> View
+   * Tick show status bar
+   * Tick show path bar 
   
 ### System Settings
   #### Battery Settings
