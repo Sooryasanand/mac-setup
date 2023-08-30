@@ -9,3 +9,6 @@ keka
 gimp
 inkscape
 visual-studio-code
+notion
+brave-browser
+audacity
