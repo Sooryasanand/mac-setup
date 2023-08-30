@@ -1,5 +1,5 @@
 # Mac Setup
-My mac setup
+My personal mac setup
 
 This repo contains info on all the apps / tools / settings I use on my Mac.
 
