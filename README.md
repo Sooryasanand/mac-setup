@@ -1,6 +1,8 @@
 # Mac Setup
 My personal mac setup
 
+![My mac setup]([http://url/to/img.png](https://github.com/Sooryasanand/mac-setup/blob/main/Screenshots/Screenshot%202023-08-30%20at%208.06.54%20pm.png))
+
 This repo contains info on all the apps / tools / settings I use on my Mac.
 
 ## Homebrew Setup
@@ -29,7 +31,7 @@ Configure git with your name and email:
 ```sh
 git config --global user.name USERNAME
 
-git config --global user.email EMAILID
+git config --global user.email EMAIL
 ```
 
 ### Terminal
