@@ -224,8 +224,8 @@ brew install inkscape
 * Bitwarden
 * Sync Brave
 
-## Vscode Setup
-### Vscode Extensions
+## VScode Setup
+### VScode Extensions
 * Atom One Dark - Vscode Theme
 * vscode icons - Icon pack for vscode
 * Error Lens - Vscode highlights errors and warnings inline
