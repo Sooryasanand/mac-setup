@@ -13,15 +13,15 @@ To install it, open up the built in Terminal app and run this command:
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-Autoinstall xcode
+It Autoinstall xcode.
 
 ## Coding Setup
 
 ### Project Folder
-Create a project folder in the '/username' folder to organise all my personal project
+Create a project folder in the '/username' folder to organise all my personal project.
 
 ### Git
-Git to access git files
+Git to access git files.
 ```
 brew install git
 ```
@@ -35,20 +35,20 @@ git config --global user.email EMAIL
 ```
 
 ### Terminal
-Iterm2 to replace existing terminal
+Iterm2 to replace existing terminal.
 ```
 brew install iterm2
 ```
 Once installed, launch it and customize the settings / preferences to your liking. These are my preferred settings:
 
 ### Oh My Zsh
-To make the terminal look good
+To make the terminal look good.
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 ### Powerlevel10k
-Install Powerlevel10k to customise the terminal
+Install Powerlevel10k to customise the terminal.
 ```
 brew install romkatv/powerlevel10k/powerlevel10k
 echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
@@ -59,7 +59,7 @@ source ~/.zshrc
 
 #### Autosuggestions
 
-1. Clone this repository into `$ZSH_CUSTOM/plugins` (by default `~/.oh-my-zsh/custom/plugins`)
+1. Clone this repository into `$ZSH_CUSTOM/plugins` (by default `~/.oh-my-zsh/custom/plugins`):
 
     ```sh
     git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
@@ -93,12 +93,12 @@ source ~/.zshrc
 3. Restart zsh (such as by opening a new instance of your terminal emulator).
 
 ### Visual Studio Code
-Default coding editor
+Default coding editor.
 ```
 brew install --cask visual-studio-code
 ```
 ### Node
-Node and npm setup
+Node and npm setup.
 ```
 brew install node
 ```
@@ -111,7 +111,7 @@ Brave is a free and open-source web browser developed by Brave Software, Inc. ba
 brew install brave-browser
 ```
 ### Alfred
-An alternate to spotlight with more functionality
+An alternate to spotlight with more functionality.
 ```
 brew install alfred
 ```
@@ -126,27 +126,27 @@ I use an app switcher called AltTab. It shows full window previews, and has an o
 brew install alt-tab
 ```
 ### Android File Transfer
-App to transfer files to and from android phone
+App to transfer files to and from android phone.
 ```
 brew install android-file-transfer
 ```
 ### Discord
-Chatting app to talk with friends
+Chatting app to talk with friends.
 ```
 brew install discord
 ```
 ### Keka
-Keka is a file archiver
+Keka is a file archiver.
 ```
 brew install keka
 ```
 ### Notion
-Notion is a freemium productivity and note-taking web application
+Notion is a freemium productivity and note-taking web application.
 ```
 brew install notion
 ```
 ### Bitwarden
-Bitwarden is an open-source password mananger
+Bitwarden is an open-source password mananger.
 ```
 brew install bitwarden
 ```
@@ -156,36 +156,36 @@ balenaEtcher is a free and open-source utility used for writing image files such
 brew install balenaetcher
 ```
 ### Todoist
-Todoist is a to-do list and task manager
+Todoist is a to-do list and task manager.
 ```
 brew install todoist
 ```
 ### Whatsapp
-App Client for whatsapp to access whatsapp chat on desktop
-[Install](https://www.whatsapp.com/download) Whatsapp here
+App Client for whatsapp to access whatsapp chat on desktop.
+[Install](https://www.whatsapp.com/download) Whatsapp here.
 
 ## Creative Tools
 
 ### DaVinci Resolve
 DaVinci Resolve is a color grading, color correction, visual effects, and audio post-production video editing application. 
-Click [here](https://www.blackmagicdesign.com/au/products/davinciresolve/) to install Davinci Resolve
+Click [here](https://www.blackmagicdesign.com/au/products/davinciresolve/) to install Davinci Resolve.
 ### Vlc
-VLC media player to play any video file
+VLC media player to play any video file.
 ```
 brew install vlc
 ```
 ### Audacity
-Audacity is a free and open-source digital audio editor and recording application software
+Audacity is a free and open-source digital audio editor and recording application software.
 ```
 brew install audacity
 ```
 ### Gimp
-GIMP is a cross-platform image editor
+GIMP is a cross-platform image editor.
 ```
 brew install gimp
 ```
 ### Inkscape
-Inkscape is professional quality vector graphics software
+Inkscape is professional quality vector graphics software.
 ```
 brew install inkscape
 ```
@@ -193,47 +193,47 @@ brew install inkscape
 ## OS Setting
 
 ### Background Images
-Background image can be cloned from this repo. It's stored inside the "Background Images" folder
+Background image can be cloned from this repo. It's stored inside the "Background Images" folder.
 
 ### Finder
 * Finder -> Preferences
-   * Uncheck Hard Disk
-   * Change New Finder windows show -> Downloads
-   * Check Open folders in tabs instead of new windows
+   * Uncheck Hard Disk.
+   * Change New Finder windows show -> Downloads.
+   * Check Open folders in tabs instead of new windows.
  * Finder -> Sidebar
-   * Check everything except home folder, 'Icloud folder', 'Shared' and 'Cloud Storage'
+   * Check everything except home folder, 'Icloud folder', 'Shared' and 'Cloud Storage'.
  * Finder -> Advanced
-   * Tick Everything except for section under 'Keep folders on top:"
-   * Select 'Search this mac'
+   * Tick Everything except for section under 'Keep folders on top:".
+   * Select 'Search this mac'.
   
 ### System Settings
   #### Battery Settings
-  * Show Battery Percentage
+  * Show Battery Percentage.
     
   #### Desktop & Dock
-  * Dock Size -> 1/4th Scale
-  * Magnification -> 2/4th Scale
-  * Minimise Windows Using -> Genie Effect
-  * Tick minimise windows into application icon
-  * Disable auto hide and show in the dock
-  * Tick Animate open application
-  * Tick show indicaters for open application
-  * Auto hide and show menubar during full screen mode
-  * Enable close windows when quitting an application
-  * Set "Brave" as deafult browser
+  * Dock Size -> 1/4th Scale.
+  * Magnification -> 2/4th Scale.
+  * Minimise Windows Using -> Genie Effect.
+  * Tick minimise windows into application icon.
+  * Disable auto hide and show in the dock.
+  * Tick Animate open application.
+  * Tick show indicaters for open application.
+  * Auto hide and show menubar during full screen mode.
+  * Enable close windows when quitting an application.
+  * Set "Brave" as deafult browser.
   
   #### Trackpad
-  * Enable tap to click
+  * Enable tap to click.
 
 ## Brave Setup
-* Bitwarden
-* Sync Brave
+* Bitwarden.
+* Sync Brave.
 
 ## VScode Setup
 ### VScode Extensions
-* Atom One Dark - Vscode Theme
-* vscode icons - Icon pack for vscode
-* Error Lens - Vscode highlights errors and warnings inline
+* Atom One Dark - Vscode Theme.
+* vscode icons - Icon pack for vscode.
+* Error Lens - Vscode highlights errors and warnings inline.
 
 
 
