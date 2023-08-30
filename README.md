@@ -190,6 +190,9 @@ brew install inkscape
 
 ## OS Setting
 
+### Background Images
+Background image can be cloned from this repo. It's stored inside the "Background Images" folder
+
 ### Finder
 * Finder -> Preferences
    * Uncheck Hard Disk
