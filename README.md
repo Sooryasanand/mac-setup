@@ -15,6 +15,9 @@ Autoinstall xcode
 
 ## Coding Setup
 
+### Project Folder
+Create a project folder in the '/username' folder to organise all my personal project
+
 ### Git
 Git to access git files
 ```
